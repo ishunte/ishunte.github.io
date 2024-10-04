@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ishunte.github.io/sitemap.html.gz
+Sitemap: https://ishunte.github.io/app/sitemap.html.gz
+Sitemap: https://ishunte.github.io/assets/sitemap.html.gz
+Sitemap: https://ishunte.github.io/css/sitemap.html.gz
+Sitemap: https://ishunte.github.io/data/sitemap.html.gz
+Sitemap: https://ishunte.github.io/includes/sitemap.html.gz
+Sitemap: https://ishunte.github.io/item/sitemap.html.gz
+Sitemap: https://ishunte.github.io/src/sitemap.html.gz
